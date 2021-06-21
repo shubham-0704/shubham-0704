@@ -7,6 +7,7 @@
 <!-- <h2> Hey there! I'm Shubham.</h2> -->
 
 
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -14,7 +15,10 @@
 - 🌱 &nbsp; Learning more about ML Models, Systems Design and Artificial Intelligence.
 - 👯 &nbsp; I’m looking to collaborate on Cpp and ML Projects.
 - ✍️ &nbsp; Pursuing Graphic Design as hobbies/side hustles.
-- ⚡ &nbsp; Fun fact: Jack of all trades , Master of None ! 
+- ⚡ &nbsp; Fun fact: Jack of all trades , Master of None !
+
+<img alt="Night Coding" src="https://github-readme-stats.vercel.app/api?username=shubham%2D0704&theme=buefy&show_icons=true" align="right"/>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -38,15 +42,15 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 
-<p >
+<!-- <p align="center" >
 <a href="https://github.com/shubham%2D0704">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubham%2D0704&theme=buefy&show_icons=true" />
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham%2D0704&langs_count=8&theme=buefy&layout=compact" />
 </a>
-</p>
+</p> -->
 
 
-
+<br><br>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3><br>
 
 <p align="center">

@@ -50,7 +50,6 @@
 </p> -->
 
 
-<br><br>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3><br>
 
 <p align="center">
